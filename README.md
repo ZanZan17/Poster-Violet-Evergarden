@@ -10,10 +10,3 @@
 </div>
 
 /* Violet Evergarden */
-
-
-position: relative;
-width: 595px;
-height: 842px;
-
-background: #1E1E1E;
